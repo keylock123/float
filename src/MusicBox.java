@@ -18,7 +18,7 @@ public class MusicBox {
         this.isSongPremium = premiumSong;
         this.songArtists = artists;
         
-        // -- TODO
+        // -- 
         /* Initialise  the rest of the variables in this Constructor block*/
     }
     
@@ -36,7 +36,7 @@ public class MusicBox {
         return isSongPremium;
     }
 
-    // -- TODO
+    // -- 
         /* Create the rest of "getters" for the remaining variables */
     
         /* The following method is complete. You don't have to do anything here. Just try to understand it. */

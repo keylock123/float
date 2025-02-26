@@ -19,4 +19,4 @@ class Slice_o_Heaven:
         print("Making pizza...")
 
     def printReceipt(self):
-        print("Printing receipt...")
+        print("Printing receipt...");
